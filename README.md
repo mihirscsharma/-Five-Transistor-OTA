@@ -41,8 +41,7 @@ This OTA design was completed as part of an analog design exploration project. T
   Verified midband gain, −3 dB bandwidth, and GBW under a 100 fF capacitive load.
 
 - **Transient Analysis**  
-  Confirmed large signal swing >1.1 V and settling behavior with typical input signals.
-
+  Confirmed large signal swing >1.1 V
 
 
 
