@@ -18,7 +18,6 @@ This OTA design was completed as part of an analog design exploration project. T
 
 | Parameter                  | Value               |
 |---------------------------|---------------------|
-| Architecture              | Five-transistor OTA |
 | Gain                      | >18 dB              |
 | Bandwidth (−3 dB)         | 558 MHz             |
 | Gain-Bandwidth Product    | 2.58 GHz            |
